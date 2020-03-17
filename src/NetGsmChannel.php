@@ -37,7 +37,7 @@ class NetGsmChannel
         if ($to = $notifiable->routeNotificationFor('netgsm')) {
             $message->setRecipients($to);
         }
-        
+
         $this->client->send($message);
     }
 }
