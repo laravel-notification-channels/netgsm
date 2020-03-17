@@ -7,7 +7,7 @@
 [![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/laravel-notification-channels/netgsm/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/laravel-notification-channels/netgsm/?branch=master)
 [![Total Downloads](https://img.shields.io/packagist/dt/laravel-notification-channels/netgsm.svg?style=flat-square)](https://packagist.org/packages/laravel-notification-channels/netgsm)
 
-This package makes it easy to send notifications using [NetGsm](https://www.netgsm.com.tr/) with Laravel 5.3 - 5.7.
+This package makes it easy to send notifications using [NetGsm](https://www.netgsm.com.tr/) with Laravel 5.3 - 7.x.
 
 
 ## Contents
